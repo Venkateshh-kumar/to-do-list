@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(188, 175, 159);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #btn{
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+  }
